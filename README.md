@@ -14,9 +14,9 @@
 
 ![animated-website](https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/30cdd80a-03a2-419f-a1b9-f9f3266788a1)<br>
 
-<br><img src="https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/a29e9c54-7cdd-4185-9e27-af347f2332d2" width="75%"><br>
+<br><img src="https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/a29e9c54-7cdd-4185-9e27-af347f2332d2" width="85%"><br>
 
-<br><img src="https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/32c0e58f-2faa-4a07-b069-2c2c956d5275" width="75%"><br>
+<br><img src="https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/32c0e58f-2faa-4a07-b069-2c2c956d5275" width="85%"><br>
 
 
 
