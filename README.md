@@ -1,6 +1,6 @@
 ![simple-animated-website](https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/a0c53bfd-6d05-4790-b258-a322db905ec0)
 
-# Simple-Animated-Website
+# Simple Animated Website
 
 ## 📋 About
  -  This is a simple animated website.
@@ -8,11 +8,11 @@
  -  Responsive ❌.
  
  ## 🔗 To see the project
-[Animated Website](https://simple-animated-website.netlify.app/)
+[Simple Animated Website](https://simple-animated-website.netlify.app/)
 
 ## 👓 Preview
 
-![animated-website](https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/30cdd80a-03a2-419f-a1b9-f9f3266788a1)<br>
+![Simple Animated Website](https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/f0bc1668-77d6-4e88-891d-196d41b823e8)<br>
 
 <br><img src="https://github.com/athar-ansari/Simple-Animated-Website/assets/118714083/a29e9c54-7cdd-4185-9e27-af347f2332d2" width="85%"><br>
 
