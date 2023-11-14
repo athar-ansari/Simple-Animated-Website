@@ -25,7 +25,7 @@ Any contributions you make are truly appreciated.
 Check out our [contribution guidelines](https://github.com/athar-ansari/Simple-Animated-Website/blob/main/CONTRIBUTING.md) for more information.
 
 ## 🛡️ License
-tourism-website is licensed under the [MIT License](https://github.com/athar-ansari/Simple-Animated-Website/blob/main/LICENSE) - see the LICENSE file for details.
+Animated Website is licensed under the [MIT License](https://github.com/athar-ansari/Simple-Animated-Website/blob/main/LICENSE) - see the LICENSE file for details.
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
